@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3b/de/27/3bde27fb9b3b29e7ecc567e602d21ea7.jpg" />
+  <img src="https://i.pinimg.com/736x/a4/7b/67/a47b67a3e4cf1549d28642d32f38660d.jpg" />
 </p>
